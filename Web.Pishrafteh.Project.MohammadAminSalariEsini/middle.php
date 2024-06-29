@@ -9,10 +9,12 @@
     <title>Middle</title>
 </head>
 <body>
-<div id="middle">
-    <div id="middle-right"></div>
-    <div id="middle-middle"></div>
-    <div id="middle-left"></div>
+<div align="center">
+    <div id="middle">
+        <div id="middle-right"></div>
+        <div id="middle-middle"></div>
+        <div id="middle-left"></div>
+    </div>
 </div>
 </body>
 </html>
