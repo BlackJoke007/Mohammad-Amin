@@ -14,7 +14,7 @@
         <marquee behavior="" direction="left"><p><b>سال میلادی جدید 2024 را به تمام مردم جهان تبریک می گویم.</b></p></marquee></div>
     <div id="footer-1">
         <p align="center">
-            <video src="video/2024.mp4" width="650px" height="200px" controls>
+            <video src="video/2024.mp4" width="650px" height="210px" controls>
                 <source src="video/2024.mp4">
             </video>
         </p>
