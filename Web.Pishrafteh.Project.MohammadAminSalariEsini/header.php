@@ -9,13 +9,15 @@
     <title>Header</title>
 </head>
 <body>
-<div id="header"></div>
-<div id="header-1">
-    <div id="headerright"></div>
-    <div id="headerright-1"></div>
-    <div id="headerlogo"><a href="https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C"><b>Welcome</b></a></div>
-    <div id="headerleft"></div>
-    <div id="headerleft-1"></div>
+<div align="center">
+    <div id="header"></div>
+    <div id="header-1">
+        <div id="headerright"></div>
+        <div id="headerright-1"></div>
+        <div id="headerlogo"><a href="https://fa.wikipedia.org/wiki/%D8%B5%D9%81%D8%AD%D9%87%D9%94_%D8%A7%D8%B5%D9%84%DB%8C"><b>Welcome</b></a></div>
+        <div id="headerleft"></div>
+        <div id="headerleft-1"></div>
+    </div>
 </div>
 </body>
 </html>
